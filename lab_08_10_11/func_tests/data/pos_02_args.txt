@@ -1,0 +1,1 @@
+m ./func_tests/data/mtr_02_1_in.txt ./func_tests/data/mtr_02_2_in.txt ./func_tests/data/out.txt
